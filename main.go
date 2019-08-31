@@ -1,8 +1,7 @@
 package main
 
 import (
-	_ "backstage_carport/routers"
-
+	_ "auth_center/routers"
 	"github.com/astaxie/beego"
 )
 
