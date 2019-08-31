@@ -8,8 +8,7 @@
 package routers
 
 import (
-	"backstage_carport/controllers"
-
+	"auth_center/controllers"
 	"github.com/astaxie/beego"
 )
 

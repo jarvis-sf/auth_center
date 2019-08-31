@@ -1,9 +1,8 @@
 package controllers
 
 import (
-	"backstage_carport/models"
+	"auth_center/models"
 	"encoding/json"
-
 	"github.com/astaxie/beego"
 )
 
